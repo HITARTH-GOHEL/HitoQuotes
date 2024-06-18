@@ -24,8 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/yourusername/hitoquotees.git
-    cd hitoquotees
+    git clone https://github.com/hitoquotes/hitoquotees.git
     ```
 
 2. **Open the project in Android Studio**:
